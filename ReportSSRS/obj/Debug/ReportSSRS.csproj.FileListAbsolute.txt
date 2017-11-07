@@ -1,0 +1,9 @@
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\obj\Debug\ReportSSRS.csprojResolveAssemblyReference.cache
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\ReportSSRS.dll.config
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\ReportSSRS.dll
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\ReportSSRS.pdb
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\Syncfusion.GeckoHtmlRenderer.Base.dll
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\Newtonsoft.Json.dll
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\bin\Syncfusion.GeckoHtmlRenderer.Base.xml
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\obj\Debug\ReportSSRS.dll
+c:\users\kingbeko\documents\visual studio 2013\Projects\ReportSSRS\ReportSSRS\obj\Debug\ReportSSRS.pdb
